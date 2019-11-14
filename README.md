@@ -12,7 +12,7 @@ High School of Telecommunication Arts and Technology (HSTAT)
     * Junior Year
 * Enrolled in HSTAT's SEP Program
 
-Schedule:
+**Schedule:**
 1. Spanish
 2. SEP
 3. US History
